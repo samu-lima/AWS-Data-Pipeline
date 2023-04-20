@@ -29,7 +29,7 @@ def createTables(cur):
         cur.execute("""
                     CREATE TABLE Orders (
                     id SERIAL PRIMARY KEY,
-                    customer_id INTEGER REFERENCES Customer(id),
+                    customer_id INTEGER REFERENCES Customers(id),
                     product_id INTEGER REFERENCES Products(id),
                     quantity INTEGER,
                     total DECIMAL(10,2),
@@ -63,7 +63,7 @@ def randomData(cur, conn, numClients):
             name = products[i]
             category = categories[i % len(categories)]
             price = round(random.uniform(50,1000),2)
-            cur.execute("""INSERT INTO Products (name, category, prince) VALUES (%s,%s,%s)""", (name, category, price))
+            cur.execute("""INSERT INTO Products (name, category, price) VALUES (%s,%s,%s)""", (name, category, price))
         conn.commit()
         print('Products data generetaded successfully')
     except Exception as e:
@@ -75,9 +75,9 @@ def randomData(cur, conn, numClients):
             custumer_id = random.randint(1, len(custormers))
             product_id = random.randint(1, len(products))
             quantity = random.randint(1,5)
-            cur.execute('SELECT price FROM products WHERE id = %s', (product_id))
+            cur.execute('SELECT price FROM products WHERE id = %s', ([product_id]))
             price = cur.fetchone()[0]
-            total = round(price*quantity, 2)
+            total = round(price * quantity, 2)
             status = random.choice(['Pending', 'On going', 'Completed'])
             cur.execute('INSERT INTO Orders (customer_id, product_id, quantity, total, status) VALUES (%s,%s,%s,%s,%s)', (custumer_id, product_id, quantity, total, status))
         conn.commit()
@@ -107,6 +107,6 @@ conn = psycopg2.connect(
 numClients = int(os.environ.get('numClients'))
 
 #Create cursor to execute SQL querys:
-cur = conn.cursos()
-createTables(cur)
+cur = conn.cursor()
+#createTables(cur)
 randomData(cur, conn, numClients)
