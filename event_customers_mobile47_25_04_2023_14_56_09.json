@@ -1,0 +1,1 @@
+{"user": {"id": 19, "name": "Tina Williams", "sex": "Female", "address": "6919 Bond Fields\nPort Eric, NC 79685", "ip": "27.5.51.232", "state": "Washington", "latitude": 26.3659595, "longitude": -104.905922}, "event": {"timestamp": 1682445369, "page": "checkout", "action": "add_to_cart", "product_id": 99, "quantity": 1, "estoque_id": 45, "price": 53.18, "estoque_id_number": 14}}

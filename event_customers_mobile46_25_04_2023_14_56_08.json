@@ -1,0 +1,1 @@
+{"user": {"id": 87, "name": "John Green", "sex": "Female", "address": "USNV Tyler\nFPO AE 03509", "ip": "51.47.170.250", "state": "Mississippi", "latitude": -6.452912, "longitude": 42.993217}, "event": {"timestamp": 1682445368, "page": "profile", "action": "checkout", "product_id": 16, "quantity": 1, "estoque_id": 43, "price": 19.35, "estoque_id_number": 54}}

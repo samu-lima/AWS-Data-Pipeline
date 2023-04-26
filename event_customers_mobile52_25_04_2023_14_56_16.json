@@ -1,0 +1,1 @@
+{"user": {"id": 76, "name": "William Kramer", "sex": "Male", "address": "2691 Carter Crescent\nSouth Jesse, PR 79567", "ip": "221.238.85.235", "state": "Arizona", "latitude": 68.5506435, "longitude": 89.560198}, "event": {"timestamp": 1682445376, "page": "cart", "action": "add_to_cart", "product_id": 72, "quantity": 5, "estoque_id": 95, "price": 21.1, "estoque_id_number": 51}}

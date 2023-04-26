@@ -1,0 +1,1 @@
+{"user": {"id": 41, "name": "Erika Brandt", "sex": "Female", "address": "455 Myers Fort\nWalkerhaven, MH 00522", "ip": "188.116.92.141", "state": "Idaho", "latitude": -68.296761, "longitude": -105.040185}, "event": {"timestamp": 1682445437, "page": "profile", "action": "purchase", "product_id": 59, "quantity": 3, "estoque_id": 86, "price": 5.93, "estoque_id_number": 19}}

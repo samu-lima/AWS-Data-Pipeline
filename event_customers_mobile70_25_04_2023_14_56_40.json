@@ -1,0 +1,1 @@
+{"user": {"id": 52, "name": "Michelle Wolf", "sex": "Male", "address": "2898 Brian Fork\nBrownbury, DE 44977", "ip": "157.91.87.134", "state": "Virginia", "latitude": -49.098713, "longitude": 10.647894}, "event": {"timestamp": 1682445400, "page": "home", "action": "remove_from_cart", "product_id": 88, "quantity": 5, "estoque_id": 14, "price": 48.7, "estoque_id_number": 56}}

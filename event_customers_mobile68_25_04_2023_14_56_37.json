@@ -1,0 +1,1 @@
+{"user": {"id": 17, "name": "Brandon Collins", "sex": "Male", "address": "Unit 5139 Box 4206\nDPO AP 53562", "ip": "143.11.243.120", "state": "Kansas", "latitude": -49.6373185, "longitude": -137.367556}, "event": {"timestamp": 1682445397, "page": "cart", "action": "view_page", "product_id": 29, "quantity": 1, "estoque_id": 33, "price": 56.46, "estoque_id_number": 86}}

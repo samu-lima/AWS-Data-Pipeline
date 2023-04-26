@@ -1,0 +1,1 @@
+{"user": {"id": 40, "name": "Bailey Lane", "sex": "Female", "address": "1830 Bethany Stream\nEast Sandra, NM 71237", "ip": "201.194.155.51", "state": "Mississippi", "latitude": -25.596999, "longitude": 7.10102}, "event": {"timestamp": 1682445314, "page": "checkout", "action": "add_to_cart", "product_id": 81, "quantity": 1, "estoque_id": 5, "price": 17.0, "estoque_id_number": 95}}

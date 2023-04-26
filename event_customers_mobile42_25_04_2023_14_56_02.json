@@ -1,0 +1,1 @@
+{"user": {"id": 24, "name": "Colton Brooks", "sex": "Male", "address": "28135 Richard Burg\nSouth Sara, VA 82042", "ip": "56.86.197.49", "state": "Washington", "latitude": 55.139938, "longitude": -64.993233}, "event": {"timestamp": 1682445362, "page": "checkout", "action": "add_to_cart", "product_id": 63, "quantity": 4, "estoque_id": 11, "price": 3.19, "estoque_id_number": 91}}

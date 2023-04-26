@@ -1,0 +1,1 @@
+{"user": {"id": 17, "name": "Connor Blanchard", "sex": "Female", "address": "Unit 1804 Box 7518\nDPO AA 43884", "ip": "154.72.26.204", "state": "Rhode Island", "latitude": 66.926505, "longitude": -50.305578}, "event": {"timestamp": 1682445429, "page": "cart", "action": "remove_from_cart", "product_id": 15, "quantity": 2, "estoque_id": 19, "price": 88.17, "estoque_id_number": 25}}

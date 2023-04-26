@@ -1,0 +1,1 @@
+{"user": {"id": 46, "name": "Nina Romero", "sex": "Female", "address": "Unit 5920 Box 0074\nDPO AA 86012", "ip": "119.46.236.64", "state": "Mississippi", "latitude": 83.635977, "longitude": -140.141523}, "event": {"timestamp": 1682445332, "page": "cart", "action": "add_to_cart", "product_id": 18, "quantity": 3, "estoque_id": 49, "price": 8.88, "estoque_id_number": 29}}

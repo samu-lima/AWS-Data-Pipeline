@@ -1,0 +1,1 @@
+{"user": {"id": 21, "name": "April Lopez", "sex": "Male", "address": "203 Carter Square\nHarrisonmouth, AS 68370", "ip": "154.126.62.15", "state": "West Virginia", "latitude": 22.509053, "longitude": 89.495638}, "event": {"timestamp": 1682445327, "page": "checkout", "action": "checkout", "product_id": 8, "quantity": 1, "estoque_id": 41, "price": 78.78, "estoque_id_number": 60}}

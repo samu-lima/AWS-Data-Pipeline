@@ -1,0 +1,1 @@
+{"user": {"id": 84, "name": "Blake Jackson", "sex": "Female", "address": "074 Hunter Parkway\nEast James, AR 78146", "ip": "211.242.156.91", "state": "California", "latitude": 58.9178945, "longitude": 2.872158}, "event": {"timestamp": 1682445330, "page": "checkout", "action": "click_link", "product_id": 70, "quantity": 3, "estoque_id": 60, "price": 9.25, "estoque_id_number": 82}}

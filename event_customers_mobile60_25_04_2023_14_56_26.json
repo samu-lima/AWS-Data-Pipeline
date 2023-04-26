@@ -1,0 +1,1 @@
+{"user": {"id": 21, "name": "Justin Smith", "sex": "Male", "address": "5764 Paul Ports\nChristinashire, DE 38603", "ip": "38.33.67.195", "state": "Connecticut", "latitude": -57.862887, "longitude": -51.985771}, "event": {"timestamp": 1682445386, "page": "home", "action": "add_to_cart", "product_id": 22, "quantity": 1, "estoque_id": 73, "price": 62.46, "estoque_id_number": 25}}

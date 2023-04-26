@@ -1,0 +1,1 @@
+{"user": {"id": 17, "name": "Dustin Baker", "sex": "Female", "address": "Unit 2170 Box 2470\nDPO AP 19767", "ip": "131.167.42.251", "state": "Nevada", "latitude": 14.4522045, "longitude": -106.125967}, "event": {"timestamp": 1682445408, "page": "checkout", "action": "remove_from_cart", "product_id": 59, "quantity": 4, "estoque_id": 33, "price": 81.6, "estoque_id_number": 21}}

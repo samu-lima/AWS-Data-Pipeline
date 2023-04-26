@@ -1,0 +1,1 @@
+{"user": {"id": 74, "name": "Michael Smith", "sex": "Male", "address": "841 Diana Ports\nPhamborough, VT 89393", "ip": "28.47.239.162", "state": "Washington", "latitude": 75.828824, "longitude": 2.32349}, "event": {"timestamp": 1682445415, "page": "cart", "action": "checkout", "product_id": 38, "quantity": 3, "estoque_id": 41, "price": 45.3, "estoque_id_number": 70}}

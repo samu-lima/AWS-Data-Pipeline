@@ -1,0 +1,1 @@
+{"user": {"id": 91, "name": "Michael Walker", "sex": "Male", "address": "USS Wong\nFPO AA 64417", "ip": "157.199.110.129", "state": "North Carolina", "latitude": 8.736287, "longitude": -117.358471}, "event": {"timestamp": 1682445427, "page": "home", "action": "checkout", "product_id": 54, "quantity": 2, "estoque_id": 58, "price": 8.2, "estoque_id_number": 25}}

@@ -1,0 +1,1 @@
+{"user": {"id": 75, "name": "Christopher Conrad", "sex": "Male", "address": "USNS Moore\nFPO AA 87168", "ip": "4.203.86.242", "state": "Alaska", "latitude": -49.400772, "longitude": -145.844892}, "event": {"timestamp": 1682445347, "page": "checkout", "action": "checkout", "product_id": 59, "quantity": 2, "estoque_id": 69, "price": 85.64, "estoque_id_number": 13}}

@@ -1,0 +1,1 @@
+{"user": {"id": 43, "name": "Brian Strickland", "sex": "Male", "address": "PSC 7475, Box 8221\nAPO AE 48552", "ip": "97.178.125.203", "state": "Texas", "latitude": -68.0092175, "longitude": 112.87148}, "event": {"timestamp": 1682445313, "page": "cart", "action": "checkout", "product_id": 79, "quantity": 4, "estoque_id": 78, "price": 68.31, "estoque_id_number": 78}}

@@ -1,0 +1,1 @@
+{"user": {"id": 9, "name": "Kathy Williamson", "sex": "Male", "address": "Unit 9650 Box 6263\nDPO AP 19943", "ip": "135.214.211.112", "state": "Washington", "latitude": 45.0338945, "longitude": 64.224906}, "event": {"timestamp": 1682445405, "page": "profile", "action": "add_to_cart", "product_id": 26, "quantity": 1, "estoque_id": 40, "price": 4.37, "estoque_id_number": 18}}

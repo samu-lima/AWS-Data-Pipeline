@@ -1,0 +1,1 @@
+{"user": {"id": 21, "name": "Erica Flynn", "sex": "Female", "address": "632 Barbara Loaf\nNorth Samantha, OK 85711", "ip": "211.53.130.177", "state": "Nevada", "latitude": 34.6593955, "longitude": 124.412509}, "event": {"timestamp": 1682445435, "page": "cart", "action": "purchase", "product_id": 95, "quantity": 1, "estoque_id": 26, "price": 34.84, "estoque_id_number": 51}}

@@ -1,0 +1,1 @@
+{"user": {"id": 95, "name": "Drew Hughes", "sex": "Male", "address": "526 Lisa Square\nJonesland, MT 22316", "ip": "173.175.225.105", "state": "Pennsylvania", "latitude": 66.8105615, "longitude": -167.895635}, "event": {"timestamp": 1682445335, "page": "checkout", "action": "checkout", "product_id": 68, "quantity": 2, "estoque_id": 37, "price": 31.98, "estoque_id_number": 32}}

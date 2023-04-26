@@ -1,0 +1,1 @@
+{"user": {"id": 67, "name": "Mary Duke", "sex": "Female", "address": "Unit 4577 Box 0696\nDPO AE 51712", "ip": "206.20.236.207", "state": "Florida", "latitude": 72.7259445, "longitude": -173.750665}, "event": {"timestamp": 1682445318, "page": "profile", "action": "click_link", "product_id": 23, "quantity": 3, "estoque_id": 62, "price": 12.33, "estoque_id_number": 56}}

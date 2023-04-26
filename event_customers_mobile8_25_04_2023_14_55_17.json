@@ -1,0 +1,1 @@
+{"user": {"id": 69, "name": "Cory Jackson", "sex": "Male", "address": "Unit 3452 Box 6853\nDPO AP 80346", "ip": "89.117.235.220", "state": "Florida", "latitude": 39.8267015, "longitude": 10.992162}, "event": {"timestamp": 1682445317, "page": "cart", "action": "add_to_cart", "product_id": 17, "quantity": 2, "estoque_id": 17, "price": 31.85, "estoque_id_number": 36}}

@@ -1,0 +1,1 @@
+{"user": {"id": 56, "name": "Robert Lewis", "sex": "Male", "address": "710 Linda Squares\nGeorgeville, MA 31641", "ip": "48.22.97.119", "state": "North Dakota", "latitude": -47.101394, "longitude": 18.001314}, "event": {"timestamp": 1682445407, "page": "home", "action": "purchase", "product_id": 70, "quantity": 3, "estoque_id": 59, "price": 40.79, "estoque_id_number": 69}}

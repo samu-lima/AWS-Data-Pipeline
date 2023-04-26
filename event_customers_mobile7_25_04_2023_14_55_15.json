@@ -1,0 +1,1 @@
+{"user": {"id": 2, "name": "Tasha Nguyen", "sex": "Male", "address": "442 Davis Springs\nPort Douglasville, AZ 71563", "ip": "81.96.219.174", "state": "New Mexico", "latitude": 29.227809, "longitude": -50.52588}, "event": {"timestamp": 1682445315, "page": "cart", "action": "view_page", "product_id": 23, "quantity": 2, "estoque_id": 84, "price": 35.28, "estoque_id_number": 29}}

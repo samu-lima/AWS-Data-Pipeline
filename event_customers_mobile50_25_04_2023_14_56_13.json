@@ -1,0 +1,1 @@
+{"user": {"id": 64, "name": "Louis Lozano", "sex": "Male", "address": "USS Russell\nFPO AA 02206", "ip": "129.173.231.155", "state": "Pennsylvania", "latitude": -56.443901, "longitude": -133.695166}, "event": {"timestamp": 1682445373, "page": "checkout", "action": "view_page", "product_id": 14, "quantity": 3, "estoque_id": 96, "price": 80.33, "estoque_id_number": 33}}

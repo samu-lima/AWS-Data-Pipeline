@@ -1,0 +1,1 @@
+{"user": {"id": 52, "name": "Rickey Snow", "sex": "Female", "address": "Unit 9614 Box 8104\nDPO AA 24053", "ip": "199.15.112.10", "state": "Alaska", "latitude": -22.1025395, "longitude": 99.386905}, "event": {"timestamp": 1682445372, "page": "profile", "action": "add_to_cart", "product_id": 18, "quantity": 2, "estoque_id": 78, "price": 1.4, "estoque_id_number": 63}}

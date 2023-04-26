@@ -1,0 +1,1 @@
+{"user": {"id": 48, "name": "Henry Montes", "sex": "Male", "address": "8731 Hughes Plaza\nCrossborough, PA 93387", "ip": "122.120.244.168", "state": "Utah", "latitude": 13.9111575, "longitude": -129.367188}, "event": {"timestamp": 1682445364, "page": "products", "action": "checkout", "product_id": 27, "quantity": 5, "estoque_id": 41, "price": 29.51, "estoque_id_number": 61}}

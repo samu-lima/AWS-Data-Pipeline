@@ -1,0 +1,1 @@
+{"user": {"id": 86, "name": "Kevin Mason", "sex": "Female", "address": "PSC 9851, Box 6303\nAPO AP 80754", "ip": "205.225.240.146", "state": "Vermont", "latitude": -12.0187515, "longitude": -152.808057}, "event": {"timestamp": 1682445370, "page": "profile", "action": "remove_from_cart", "product_id": 11, "quantity": 4, "estoque_id": 82, "price": 7.4, "estoque_id_number": 57}}

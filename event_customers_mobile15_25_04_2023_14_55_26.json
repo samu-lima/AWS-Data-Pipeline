@@ -1,0 +1,1 @@
+{"user": {"id": 22, "name": "Ashley Lynch", "sex": "Female", "address": "USNV Morris\nFPO AA 64329", "ip": "201.60.252.201", "state": "New Hampshire", "latitude": -49.873573, "longitude": 114.348607}, "event": {"timestamp": 1682445326, "page": "products", "action": "purchase", "product_id": 47, "quantity": 5, "estoque_id": 43, "price": 33.45, "estoque_id_number": 33}}
